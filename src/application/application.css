@@ -1,0 +1,16 @@
+/* JavaFX CSS - Leave this comment until you have at least create one rule which uses -fx-Property */
+@CHARSET "US-ASCII";
+.spacer{
+  
+}
+.tab-header-area {
+  -fx-padding: 0 0 0 50 ;
+}
+
+.blue-button{
+  -fx-border-width:1px;
+  -fx-border-color:#283580;
+  -fx-background-color:#001380;
+  background-color:#001380;
+  -fx-text-fill:#ffffff;
+}
